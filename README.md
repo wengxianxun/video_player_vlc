@@ -1,0 +1,2 @@
+# video_player_vlc
+基于flutter官方video_player项目, 把iOS和Android端的播放器改变为MobileVLCKit播放器
